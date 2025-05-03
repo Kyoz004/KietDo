@@ -2,7 +2,7 @@
   <h1>Do Ly Anh Kiet</h1>
   <p><strong>Data Science & Engineering | Software Development Engineer</strong></p>
   
-  <img src="https://media1.tenor.com/m/eAKshH8g25gAAAAC/spiderman-typing.gif" alt="Spider-Man Typing" width="300"/>
+  ![Image](https://github.com/user-attachments/assets/a3ba0df0-cc16-49f4-a427-ad76b7c886b4)
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiet-do-715a8b28b/)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kietdo14.it@gmail.com)
