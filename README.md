@@ -36,7 +36,7 @@ Data Science & Engineering student at Van Lang University (2022-2026) with profe
 ```
 Programming Languages:  Python, JavaScript, Java, Dart, PHP
 Web Development:        Django, React, Node.js, Flask, Laravel  
-Frontend:              HTML/CSS, TailwindCSS, Bootstrap
+Frontend:               HTML/CSS, TailwindCSS, Bootstrap
 Data Technologies:      PostgreSQL, MongoDB, Neo4j, Dataiku, Streamlit
 Mobile Development:     Flutter
 DevOps & Tools:         Docker, Jenkins, Git, RESTful APIs, Socket.IO
