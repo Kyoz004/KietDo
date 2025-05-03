@@ -64,12 +64,6 @@ A medical imaging system that leverages deep learning to detect and classify bra
 - Built full-stack web application with React, Flask, and TensorFlow
 - Deployed model using Git LFS for efficient distribution
 
-## 🏆 Achievements & Certifications
-
-- 10% Tuition Scholarship (2023-2024)
-- Microsoft Office Specialist (MOS) Excel Certification
-- English B2 Level (University Graded)
-
 ## 📊 GitHub Stats
 
 <div align="center">
