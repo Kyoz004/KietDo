@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Do Ly Anh Kiet</h1>
-  <p><strong>Data Science & Engineering | Software Development Engineer</strong></p>
+  <p><strong>Software Development | Data Engineering</strong></p>
   
   ![Image](https://github.com/user-attachments/assets/a3ba0df0-cc16-49f4-a427-ad76b7c886b4)
   
