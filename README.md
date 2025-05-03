@@ -18,14 +18,13 @@ Data Science & Engineering student at Van Lang University (2022-2026) with profe
 ### Software Development Engineer (Part-time) | Advanced Technology & Equipment Company Limited
 *October 2024 - April 2025*
 
-- **Web Automation System** [[Source Code](https://github.com/Kyo104/ScrapingTaxData/releases/tag/crawler_app_v1.7)]
+- **Web Automation & Data Processing System** [[Source Code](https://github.com/Kyo104/ScrapingTaxData/releases/tag/crawler_app_v1.7)]
   - Built browser automation using Selenium WebDriver (Headless Chrome)
   - Orchestrated workflows through Jenkins CI/CD pipelines
   - Implemented PDF/text extraction and image processing modules
-
-- **Data Processing**
   - Developed ETL pipelines using Python (Pandas, PostgreSQL)
-  - Automated data validation and quality checks
+
+
 
 - **AI Camera System** [[Source Code](https://github.com/vlu-lantran/AI_project)]
   - Developed computer vision solutions using deep learning frameworks
@@ -43,26 +42,12 @@ Mobile Development:     Flutter
 DevOps & Tools:         Docker, Jenkins, Git, RESTful APIs, Socket.IO
 ```
 
-## 💼 Projects
+## 💼 Featured Projects
 
-### [AI-driven News Sentiment Analysis Platform](https://github.com/Kyoz004/AI-driven-News-Sentiment-Analysis)
+[![Brain Tumor Detection](https://img.shields.io/badge/GitHub-Brain_Tumor_Detection-2ea44f?style=for-the-badge&logo=github)](https://github.com/Kyoz004/DeepLearning-BrainTumor-Classifier)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Model_Development-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/kietdo104/xception-finetuned-brainmritumor-classifier)
 
-A comprehensive full-stack system for real-time news sentiment analysis with interactive visualization.
-
-- Architected and developed using Python, Flask, PostgreSQL, and Docker
-- Implemented advanced NLP pipelines for real-time sentiment analysis
-- Engineered scalable database architecture with data integrity and performance optimizations
-- Built interactive analytics dashboard for tracking sentiment trends
-- Completed as a solo developer, managing all project phases
-
-### [Brain Tumor Detection Using Deep Learning](https://github.com/Kyoz004/DeepLearning-BrainTumor-Classifier) | [Kaggle Notebook](https://www.kaggle.com/code/kietdo104/xception-finetuned-brainmritumor-classifier)
-
-A medical imaging system that leverages deep learning to detect and classify brain tumors from MRI scans.
-
-- Developed high-accuracy classification system using Xception CNN architecture
-- Implemented transfer learning with ImageNet weights and advanced data augmentation
-- Built full-stack web application with React, Flask, and TensorFlow
-- Deployed model using Git LFS for efficient distribution
+[![News Sentiment Analysis](https://img.shields.io/badge/GitHub-News_Sentiment_Analysis-2ea44f?style=for-the-badge&logo=github)](https://github.com/Kyoz004/AI-driven-News-Sentiment-Analysis)
 
 ## 📊 GitHub Stats
 
